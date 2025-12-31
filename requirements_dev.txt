@@ -1,6 +1,6 @@
-colorama
+colorama==0.4.6
 openai
-groq
+groq==0.30.0
 dotenv
 
 # dev requirements -
